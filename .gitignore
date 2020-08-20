@@ -10,3 +10,5 @@ Gemfile.lock
 *.log
 .tm_properties
 .byebug_history
+.idea/
+.rakeTasks
