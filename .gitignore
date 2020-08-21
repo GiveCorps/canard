@@ -9,3 +9,6 @@ Gemfile.lock
 *.sqlite3
 *.log
 .tm_properties
+.byebug_history
+.idea/
+.rakeTasks
